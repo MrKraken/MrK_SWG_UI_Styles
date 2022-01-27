@@ -10,15 +10,18 @@ If you already use custom user styles, it is likely you will already have `ui_pa
 ## Styles at Last Update
 - MrKraken Dark
 ![MrKraken Dark SWG Style](https://i.imgur.com/aMFxEUT.png)
+- Fallen Order
+![MrKraken Fallen Order SWG UI style](https://i.imgur.com/t70ltIf.png)
 
 ## Todo
 Styles that I am currently working on, all will be muted (essentially dark mode) styles
 
 - [x] MrKraken Dark
+- [x] Fallen Order
 - [ ] Windu Purple 2022
 - [ ] Imperial Proper
 - [ ] Dark Jedi
-- [ ] Fallen Order
+
 
 ## Feedback/Support
 If you want to request a style, or have feedback then please visit my [my discord](https://discord.mrkraken.art). Want to donate towards the tea or biscuit fund? [You can do so here](https://streamelements.com/realmrkraken/tip).
