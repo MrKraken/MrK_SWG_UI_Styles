@@ -29,6 +29,6 @@ Styles that I am currently working on, all will be muted (essentially dark mode)
 If you want to request a style, or have feedback then please visit my [my discord](https://discord.mrkraken.art). Want to donate towards the tea or biscuit fund? [You can do so here](https://streamelements.com/realmrkraken/tip).
 
 ## Links
-- [SWG Furniture Catalogue][https://swg.mrkraken.art/architect/]
+- [SWG Furniture Catalogue](https://swg.mrkraken.art/architect/)
 - [SWGEmu](https://www.swgemu.com)
 - [Galaxy Harvester](https://www.galaxyharvester.com)
