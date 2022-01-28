@@ -2,3 +2,4 @@
 <include>ui_custom_palettes/fallen_order.inc</include>
 <include>ui_custom_palettes/imperial_proper.inc</include>
 <include>ui_custom_palettes/dark_jedi.inc</include>
+<include>ui_custom_palettes/windu_purple_2022.inc</include>

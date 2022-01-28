@@ -16,6 +16,8 @@ If you already use custom user styles, it is likely you will already have `ui_pa
 ![MrKraken Imperial Star Destroyer SWG UI style](https://i.imgur.com/3WFGnOI.png)
 - Dark Jedi
 ![MrKraken Dark Jedi SWG UI Style](https://i.imgur.com/EwSAph1.png)
+- Windu Purple 2022
+![MrKraken Windu Purple 2022 SWG UI Style](https://i.imgur.com/bWw8Hmt.png)
 
 ## Todo
 Styles that I am currently working on, all will be muted (essentially dark mode) styles
@@ -24,7 +26,7 @@ Styles that I am currently working on, all will be muted (essentially dark mode)
 - [x] Fallen Order
 - [x] Imperial Proper
 - [x] Dark Jedi
-- [ ] Windu Purple 2022
+- [x] Windu Purple 2022
 - [ ] Mando
 
 
